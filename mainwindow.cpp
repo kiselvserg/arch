@@ -153,7 +153,8 @@ void MainWindow::on_aboutAction_triggered()
                        tr("архитектура которого была разработана в рамках курсового проектирования <br/>")+
                        tr("по дисциплине Архитектура ВС <br/><br/>")+
                        tr("<b>Выполнил студент группы 0305 Киселев Сергей</b><br/><br/>")+
-                       tr("<center>Санкт-Петербург, 2013 г.</center>"));
+                       tr("<center>Санкт-Петербург, 2013 г.</center>")+
+                       tr("<center> СПбГЭТУ \"ЛЭТИ\" "));
 }
 
 void MainWindow::on_actionAboutQt_triggered()
